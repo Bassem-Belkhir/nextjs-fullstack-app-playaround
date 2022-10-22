@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # nextJs-architecture-playAround
 
 As base of this repo I will go with this video Tutorial
@@ -6,7 +6,9 @@ As base of this repo I will go with this video Tutorial
 Link1 : https://www.youtube.com/watch?v=Iu5aZDqZt8E
 
 Link2 : https://www.youtube.com/watch?v=46V478kPL3A
-=======
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -41,4 +43,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> 293264a (Initial commit from Create Next App)
+
