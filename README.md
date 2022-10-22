@@ -1,0 +1,1 @@
+# nextJs-architecture-playAround
