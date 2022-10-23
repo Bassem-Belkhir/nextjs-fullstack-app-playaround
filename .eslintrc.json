@@ -13,5 +13,8 @@
       "files": ["*.stories.@(ts|tsx|js|jsx|mjs|cjs"],
       "rules": { "storybook/hierarchy-separator": "error" }
     }
-  ]
+  ],
+  "rules": {
+    "no-unused-vars": [1, { "args": "after-used", "argsIgnorePattern": "^_" }]
+  }
 }
